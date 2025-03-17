@@ -1,3 +1,6 @@
+Forked from findmover/wxread
+原作者地址：https://github.com/findmover/wxread
+
 *推一个机场可以走我的优惠码【88888888】相当于50多一年，trySmall可用*<br>
 `AFF`*【科学上网】机场地址--->[R星云](https://web.rstar.cloud/)<---机场地址【科学上网】*`AFF` <br>
 *觉得这个项目对你有帮助恰巧你需要节点的话可以看一下*
